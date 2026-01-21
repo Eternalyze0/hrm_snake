@@ -1,6 +1,6 @@
 # HRM Snake
 
-A (probably buggy) implementation of Hierarchical Reasoning Model (https://arxiv.org/abs/2506.21734) for the game of Snake.
+An implementation of Hierarchical Reasoning Model (https://arxiv.org/abs/2506.21734) for the game of Snake.
 
 ![output](https://github.com/user-attachments/assets/bc926bb1-504c-46c4-903a-1af1ab96a8b8)
 
